@@ -2,8 +2,8 @@
 apkFileName: ims.apk
 compressionType: false
 doNotCompress:
-- dex
-- arsc
+- classes.dex
+- resources.arsc
 - png
 - res/drawable-xhdpi-v4/volte_icon
 isFrameworkApk: false
@@ -20,7 +20,7 @@ usesFramework:
   ids:
   - 1
   tag: null
-version: 2.3.4-dirty
+version: 2.5.0
 versionInfo:
   versionCode: '1'
   versionName: '1.0'
